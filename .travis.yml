@@ -18,4 +18,4 @@ deploy:
   edge: true
   script: netlify deploy --dir=build --prod
   on:
-    branch: deploy
+    branch: main
